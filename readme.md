@@ -1,12 +1,12 @@
 
 ##  Operator-Mono
 
-[Operator Mono](./code.png)
+![Operator Mono](./code.png)
 
 #### 1. Clone
 
 
-    $ git clone https://github.com/lifeeric/Operator-Mono
+    $ git clone git@github.com:lifeeric/Operator-Mono.git
 
 
 #### installing On Linux
@@ -24,6 +24,6 @@ sudo fc-cache -fv
 
 # Use the fonts
 
-[vscode](./vscode.png)
+![vscode](./vscode.png)
 
 use the Operator Mono in vscode, setting search for font and put there "Operator Mono" without quotes
