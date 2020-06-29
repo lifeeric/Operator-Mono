@@ -1,23 +1,25 @@
 
 ##  Operator-Mono
 
-## 说明
-一款非常优秀的代码字体,在这里做个备份
+#### 1. Clone
 
 
-### 字体截图
-
-<p align="center"><img src="http://i1.piimg.com/1949/02fd1e93eb33b638.png"></p>
-<p align="center"><img src="http://i1.piimg.com/1949/42fd9f0feb547d6b.png"></p>
-<p align="center"><img src="http://i1.piimg.com/1949/7cef3db7aaf858d7.png"></p>
-
-## 使用
-
-#### 1. Clone 资源文件
+    $ git clone https://github.com/lifeeric/Operator-Mono
 
 
-    $ git clone https://github.com/ScumPetard/Operator-Mono.git
+#### installing On Linux
 
+change the directory to Operator-mono/src
 
+1) Copy the "Operator Mono" to `/usr/local/share/fonts/
+```
+cp -r Operator\ Mono /usr/local/share/font/
 
+2) update the fonts, run this command
+```
+sudo fc-cache -fv
+```
 
+# Use the fonts
+
+use the Operator Mono in vscode, setting search for font and put there "Operator Mono" without quotes
