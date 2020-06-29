@@ -1,6 +1,8 @@
 
 ##  Operator-Mono
 
+[Operator Mono](./code.png)
+
 #### 1. Clone
 
 
@@ -21,5 +23,7 @@ sudo fc-cache -fv
 ```
 
 # Use the fonts
+
+[vscode](./vscode.png)
 
 use the Operator Mono in vscode, setting search for font and put there "Operator Mono" without quotes
