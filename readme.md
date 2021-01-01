@@ -15,7 +15,7 @@ change the directory to `Operator-mono/src`
 
 1) Copy the "Operator Mono" to `/usr/local/share/fonts/
 ```
-cp -r Operator\ Mono /usr/local/share/font/
+cp -r Operator\ Mono /usr/local/share/fonts/
 ```
 2) update the fonts, run this command
 ```
